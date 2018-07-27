@@ -1,0 +1,30 @@
+# 00001 - 00076: undefined
++ 00077 - 00078: Save point messages (determination): global \\\
+- 00079 - 00116: Save point messages (determination): global ///
+# 00117 - 00135: undefined
++ 00136 - 00142: Flowey first encounter: foreground flower bed
++ 00143 - 00143: Toriel first encounter: foreground flower bed \\\
+- 00144 - 00233: Toriel first encounter: entrance ~ rock room  ///
+# 00234 - 01074: undefined
++ 01075 - 01092: Flowey first encounter: battle flower bed
++ 01093 - 01099: Toriel first encounter: battle flower bed
+# 01100 - 02381: undefined
++ 02382 - 02382: Name choosing prompts: zero data start \\\
+- 02383 - 02444: Name choosing prompts: zero data start ///
++ 02445 - 02458: Name choosing UI: zero data start
+# 02459 - 02470: undefined
++ 02471 - 02477: Continue game UI: continue game
++ 02478 - 02487: Instructions: zero data start
++ 02488 - 02488: Save area names: global \\\
+- 02489 - 02520: Save area names: global ///
+# 02521 - 04791: undefined
++ 04792 - 04792: Undertale copyright message: continue game
+# 04793 - 04807: undefined
++ 04808 - 04808: Continue instructions: post-intro
+# 04809 - 04821: undefined
++ 04822 - 04835: opening
+# 04836 - 06429: undefined
++ 06430 - 06430: Flowey first encounter correction text: battle flower bed
+# 06431 - 18057: undefined
++ 18058 - 18060: save UI: global
+# 18061 - 31148: undefined
