@@ -22,7 +22,7 @@
 # 04793 - 04807: undefined
 + 04808 - 04808: Continue instructions: post-intro
 # 04809 - 04821: undefined
-+ 04822 - 04835: opening
++ 04822 - 04835: cutscene: opening
 # 04836 - 06429: undefined
 + 06430 - 06430: Flowey first encounter correction text: battle flower bed
 # 06431 - 18057: undefined

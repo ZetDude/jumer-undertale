@@ -1,0 +1,7 @@
+[ Names ]
+Flowey: saray
+Toriel: toriel
+
+[ Locations ]
+Ruins: yasen
+
