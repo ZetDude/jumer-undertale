@@ -2486,36 +2486,36 @@ wi ametwan
 --
 real
 yasen - faswasom
-yasen - Leaf Pile
-yasen - Mouse Hole
-yasen - Home
-Snowdin - Ruins Exit
-Snowdin - Box Road
-Snowdin - Spaghetti
-Snowdin - Dog House
-Snowdin - Town
-Waterfall - Checkpoint
-Waterfall - Hallway
-Waterfall - Crystal
-Waterfall - Bridge
-Waterfall - Trash Zone
-Waterfall - Quiet Area
-Waterfall - Temmie Village
-Waterfall - Undyne Arena
-Hotland - Bad Opinion Zone
-Hotland - Laboratory Entrance
-Hotland - Magma Chamber
-Hotland - Core View
-Hotland - Spider Entrance
-Hotland - Hotel Lobby
-Hotland - Core Branch
-Hotland - Core End
+yasen - sewtunbehak
+yasen - skikunaet
+yasen - baren
+lumenšt - yasuk fases
+lumenšt - stakeše onur
+lumenšt - spageten
+lumenšt - saskun tahi
+lumenšt - leon
+bsał - Checkpoint
+bsał - Hallway
+bsał - Crystal
+bsał - Bridge
+bsał - Trash Zone
+bsał - Quiet Area
+bsał - Temmie Village
+bsał - Undyne Arena
+usetita - Bad Opinion Zone
+usetita - Laboratory Entrance
+usetita - Magma Chamber
+usetita - Core View
+usetita - Spider Entrance
+usetita - Hotel Lobby
+usetita - Core Branch
+usetita - Core End
 Castle Elevator
-New Home
+baren slen
 Last Corridor
 Throne Entrance
 Throne Room
-The End
+łeb
 True Laboratory
 True Lab - Bedroom
 currentlevel
