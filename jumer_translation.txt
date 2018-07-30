@@ -2479,16 +2479,16 @@ file0
 [Z tal ENTER] - rayus
 [X tal SHIFT] - awas
 [C tal CTRL] - meniw
-[F4] - skreynsefa
+[F4] - rufagersefa
 [nojt ESC šta] - esi
 rams (HP) e 0 ge ksasek.
 wi ametwan
 --
 real
 yasen - faswasom
-Ruins - Leaf Pile
-Ruins - Mouse Hole
-Ruins - Home
+yasen - Leaf Pile
+yasen - Mouse Hole
+yasen - Home
 Snowdin - Ruins Exit
 Snowdin - Box Road
 Snowdin - Spaghetti
