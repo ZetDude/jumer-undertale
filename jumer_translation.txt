@@ -137,8 +137,8 @@ gx
 * hm.../
 * žim slen castarištal^2,&  aehas?/
 * ae^1, žim uris ire&  cahiti rin./
-* SOMEONE OUGHT TO TEACH&  YOU HOW THINGS WORK&  AROUND HERE!/
-* I GUESS LITTLE OLD ME&  WILL HAVE TO DO./
+* genlušon uqun šeg,&  rene igibe otor wos!/
+* cae yuref šosin uqin&  he aynnam hak./
 * c'frehitere^2?&* ranures!/%%
 \E2* wos ye./%%
 \E2* Welcome to your new&  home^1, innocent one./
@@ -1080,10 +1080,10 @@ a far, eritonel šeg!/%
 \Xcastarištal wos^1, &ik itonun \Gnayarab\X al..^1./
 gin ayn..^2.\E1 &"icabaynun&sefukuk erem."/
 \E2c'frexitere\E0?/%
-ran satney^1!&GET AS MANY AS YOU CAN^2!%%%
+ran satney^1!&erays nilarnam qurin^2!%%%
 e qaf cora./
 \Xha wob^1, e&"šebi tal&\Gik\Xšebog"./
-WHY WOULD ANYONE PASS&UP AN OPPORTUNITY&LIKE THIS!?/%
+\Xnur a erušon \Gnen\X wofe&femurinuru!?/%
 šaybi./%
 baynen^1,&a loteyo./
 astocesus wasa^1,&aehas?/%
