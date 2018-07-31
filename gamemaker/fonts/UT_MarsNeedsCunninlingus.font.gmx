@@ -14,15 +14,15 @@
   </ranges>
   <glyphs>
     <glyph character="215" x="28" y="146" w="0" h="0" shift="0" offset="0"/>
+    <glyph character="174" x="30" y="146" w="0" h="0" shift="0" offset="0"/>
     <glyph character="145" x="154" y="126" w="12" h="9" shift="15" offset="0"/>
     <glyph character="108" x="56" y="66" w="12" h="18" shift="15" offset="0"/>
-    <glyph character="174" x="30" y="146" w="0" h="0" shift="0" offset="0"/>
-    <glyph character="122" x="70" y="66" w="12" h="18" shift="15" offset="0"/>
-    <glyph character="207" x="60" y="146" w="0" h="0" shift="0" offset="0"/>
-    <glyph character="170" x="16" y="146" w="0" h="0" shift="0" offset="0"/>
     <glyph character="179" x="32" y="146" w="0" h="0" shift="0" offset="0"/>
-    <glyph character="142" x="176" y="106" w="12" h="9" shift="15" offset="0"/>
+    <glyph character="122" x="70" y="66" w="12" h="18" shift="15" offset="0"/>
     <glyph character="166" x="36" y="146" w="0" h="0" shift="0" offset="0"/>
+    <glyph character="207" x="60" y="146" w="0" h="0" shift="0" offset="0"/>
+    <glyph character="142" x="176" y="106" w="12" h="9" shift="15" offset="0"/>
+    <glyph character="170" x="16" y="146" w="0" h="0" shift="0" offset="0"/>
     <glyph character="197" x="50" y="146" w="0" h="0" shift="0" offset="0"/>
     <glyph character="154" x="42" y="126" w="12" h="9" shift="15" offset="0"/>
     <glyph character="246" x="42" y="146" w="0" h="0" shift="0" offset="0"/>
