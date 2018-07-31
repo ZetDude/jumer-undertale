@@ -1,15 +1,18 @@
-[ Names ]
-Flowey:   saray   (sara - flower + y)
-Toriel:   yomiel  (Watcher angel in Judaism, Christianity and Islam)
-Papyrus:  papirus (transcription)
-Sans:     sans    (transcription)
-Undyne:   šaybwan (šaybek - die + ewan - un-, -less)
-Mettaton: urerot  (uren - metal + rot)
-Asgore:   ryetaf  (anagram of rafeyt - sorrow)
-Asriel:   ryemiel (ryetaf + yomiel)
-Alphys:   harnayb (anagram of bayn - friend + rah - shy)
+[ Main Characters ]
+Flowey:    saray    (sara - flower + y)
+Toriel:    yomiel   (Watcher angel in Judaism, Christianity and Islam)
+Sans:      sans     (transcription)
+Papyrus:   papirus  (transcription)
+Undyne:    šayban  (šaybek - die + ewan - un-, -less)
+Alphys:    harayb  (anagram of bayn - friend + rah - shy)
+Mettaton:  urerot   (uren - metal + rot)
+Asgore:    ryetaf   (anagram of rafeyt - sorrow)
+Asriel:    rymiel  (ryetaf + yomiel)
+
+Frisk:     frisk    (transcription)
+Chara:     łenem    (qenem, just a Jumerian name)
 
 [ Locations ]
-Ruins:     yasen
-Snowdin:   lumenšt
-Waterfall: bsał
+Ruins:      yasen
+Snowdin:    lumenšt
+Waterfall:  bsał
