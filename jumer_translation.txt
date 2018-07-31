@@ -1092,7 +1092,7 @@ carišin, aktek&has wos^1,&aehas?/
 ita ufun&hun coroloto./%
 \E1išarun sawqeben&stah fowe^1, urtaet&ace cofe.../
 \E2ha, a rar^1, hun ur./
-\Xhe \Btoriel\X,&he \Ryasun\X &umigager./
+\Xhe \Byomiel\X,&he \Ryasun\X &umigager./
 sirin wos stomot al&ufun, ti ne namayot./
 a hi ufoto sakim&šunumcofe fayagi./
 aritonel hun cayro&šunum uwtoše set&šunum erotoše wos&farel./%%
@@ -2386,29 +2386,29 @@ A name has already#been chosen.
 You must choose a name.
 aaaaaa
 aaaaaaaaaaaaaaaaa
-asgore
-You cannot.
-toriel
+ryetaf
+a win.
+yomiel
 I think you should#think of your own#name, my child.
 sans
-nope.
-undyne
+aat.
+sayban
 Get your OWN name!
-flowey
+saray
 I already CHOSE#that name.
-chara
-The true name.
-alphys
-D-don't do that.
-alphy
-Uh.... OK?
-papyru
+qenem
+satuqeb teuk.
+harayb
+a-a tin cofe
+harib
+ya... šos?
+papiru
 I'LL ALLOW IT!!!!
 napsta
 blooky
 ............#(They're powerless to#stop you.)
 That's a little on-#the-nose, isn't it...?
-asriel
+rymiel
 ...
 WARNING: This name will#make your life hell.#Proceed anyway?
 catty
