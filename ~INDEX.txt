@@ -25,6 +25,8 @@
 + 04822 - 04835: cutscene: opening
 # 04836 - 06429: undefined
 + 06430 - 06430: Flowey first encounter correction text: battle flower bed
-# 06431 - 18057: undefined
+# 06431 - 11627: undefined
+- 11628 - 11632: Flowey first encounter repetition (2 and 3+): foreground flower bed
+# 11633 - 18057: undefined
 + 18058 - 18060: save UI: global
 # 18061 - 31148: undefined

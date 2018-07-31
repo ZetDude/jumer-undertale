@@ -11625,12 +11625,12 @@ mus
 flow
 flow_m
 Met1
-* Hee hee hee.../
-* Why'd you make me&  introduce myself?/
-* It's rude to act&  like you don't&  know who I am./
-* Someone ought to teach&  you proper manners./
-* Don't you have anything&  better to do?/%%
-* Error/%%
+* hi hi hi.../
+* nur het catigeyo&  uqinya?/
+* a cacunun hem&  cofe monoto e&  šatiqewan./
+* genlušon uqun šeg&  šatiłurušegim./
+* ca tun nwaqim haker?/%%
+* ERROR/%%
 * Really^1, 
 \E5* Well^1, do what you&  will./
 \E4* I'll be waiting for&  you!/%%
