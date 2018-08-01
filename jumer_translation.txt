@@ -141,9 +141,9 @@ gx
 * cae yuref šosin uqin&  he aynnam hak./
 * c'frehitere^2?&* ranures!/%%
 \E2* wos ye./%%
-\E2* šunum bareni slen e&siritak ^1, acesen./
+\E2* šunum bareni slen e&siritak^1, acesen./
 \W* aregenlel šeg \Gyasuk\W &  aktotor./%%
-\E2\W* sewogil carastatete& \Gyasuk\W ninemen./
+\E2* \Wsewogil carastatete& \Gyasuk\W ninemen./
 * Ancient fusions between &  diversions and doorkeys./
 * One must solve them&  to move from room to&  room./
 * Please adjust yourself    to the sight of them./%
