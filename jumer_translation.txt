@@ -74,7 +74,7 @@ goldreward
  EXP&     and 
  GOLD.
 room
-* (šarin sirilwa yasun kro&   šunum wakqa, sewog žim&   unamelowaynyal.)/
+* (šarin sirilwa yasuk kro&   šunum wakqa, sewog žim&   unamelowaynyal.)/
 * (naerbi HP seva.)/%%
 * (Playfully crinkling through&  the leaves fills you with&  determination.)/
 * (Knowing the mouse might one&  day leave its hole and&  get the cheese...)/
@@ -141,9 +141,9 @@ gx
 * cae yuref šosin uqin&  he aynnam hak./
 * c'frehitere^2?&* ranures!/%%
 \E2* wos ye./%%
-\E2* Welcome to your new&  home^1, innocent one./
-* Allow me to educate you&  in the operation of the&  RUINS./%%
-\E2* The RUINS are full of&  puzzles./
+\E2* šunum bareni slen e&siritak ^1, acesen./
+\W* aregenlel šeg \Gyasuk\W &  aktotor./%%
+\E2\W* sewogil carastatete& \Gyasuk\W ninemen./
 * Ancient fusions between &  diversions and doorkeys./
 * One must solve them&  to move from room to&  room./
 * Please adjust yourself    to the sight of them./%
@@ -1092,7 +1092,7 @@ carišin, aktek&has wos^1,&aehas?/
 ita ufun&hun coroloto./%
 \E1išarun sawqeben&stah fowe^1, urtaet&ace cofe.../
 \E2ha, a rar^1, hun ur./
-\Xhe \Byomiel\X,&he \Ryasun\X &umigager./
+\Xhe \Byomiel\X,&he \Ryasuk\X &umigager./
 sirin wos stomot al&ufun, ti ne namayot./
 a hi ufoto sakim&šunumcofe fayagi./
 aritonel hun cayro&šunum uwtoše set&šunum erotoše wos&farel./%%
