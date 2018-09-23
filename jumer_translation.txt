@@ -74,7 +74,7 @@ goldreward
  EXP&     and 
  GOLD.
 room
-* (šarin sirilwa yasuk kro&   šunum wakqa, sewog žim&   unamelowaynyal.)/
+* (šarin sirilwa yasuk kro&   šunum wakqa, sewog šim&   unamelowaynyal.)/
 * (naerbi HP seva.)/%%
 * (Playfully crinkling through&  the leaves fills you with&  determination.)/
 * (Knowing the mouse might one&  day leave its hole and&  get the cheese...)/
@@ -141,9 +141,9 @@ gx
 * cae yuref šosin uqin&  he aynnam hak./
 * c'frehitere^2?&* ranures!/%%
 \E2* wos ye./%%
-\E2* šunum bareni slen e&siritak^1, acesen./
+\E2* šunum bareni slen e&  siritak^1, acesen./
 \W* aregenlel šeg \Gyasuk\W &  aktotor./%%
-\E2* \Wsewogil carastatete& \Gyasuk\W ninemen./
+\E2* sewogil carastatete&  yasuk ninemen./
 * Ancient fusions between &  diversions and doorkeys./
 * One must solve them&  to move from room to&  room./
 * Please adjust yourself    to the sight of them./%
@@ -2475,10 +2475,10 @@ Joystick Config
 sayi
 teukwa sayi
 file0
- --- amtoto fas ---
+ --- amtotoše fas ---
 [Z tal ENTER] - rayus
 [X tal SHIFT] - awas
-[C tal CTRL] - meniw
+[C tal CTRL] - unamiten
 [F4] - rufagersefa
 [nojt ESC šta] - esi
 rams (HP) e 0 ge ksasek.
